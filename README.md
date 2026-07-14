@@ -24,9 +24,9 @@ The lab focuses on:
 | **Course Name**          | Digital System Design                        |
 | **Course Code**          | CPE344                                       |
 | **Credit Hours**         | 1                                            |
-| **Core**                 | BS Computer Engineering                      |                               |
-| **Lab Location**         | DSD / Embedded Systems Lab                   |                                |
-| **Session**              | FA20 (Updated)                               |
+| **Core**                 | BS Computer Engineering                      |                               
+| **Lab Location**         | DSD / Embedded Systems Lab                   |                                
+| **Session**              | FA22                                         |
 
 ### Course Learning Outcomes (CLOs)
 - **CLO1**: Introduce skills of Verilog HDL for system modeling and simulation.
@@ -39,6 +39,7 @@ The lab focuses on:
 
 ## 📁 Repository Structure
 CPE344_DSD_Lab_Manual_COMSATS_Attock/
+
 ├── README.md
 ├── Master_Lab_Manual.pdf
 └── Solved_Labs/
