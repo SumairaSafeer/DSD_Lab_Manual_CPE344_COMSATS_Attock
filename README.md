@@ -24,11 +24,8 @@ The lab focuses on:
 | **Course Name**          | Digital System Design                        |
 | **Course Code**          | CPE344                                       |
 | **Credit Hours**         | 1                                            |
-| **Core**                 | BS Computer Engineering                      |
-| **Lab Instructor**       | Engr. Ayesha Sadiq                           |
-| **Course Instructor**    | Mr. Wasiq Ali                                |
-| **Lab Location**         | DSD / Embedded Systems Lab                   |
-| **Lab Timing**           | 8:30 – 11:30                                 |
+| **Core**                 | BS Computer Engineering                      |                               |
+| **Lab Location**         | DSD / Embedded Systems Lab                   |                                |
 | **Session**              | FA20 (Updated)                               |
 
 ### Course Learning Outcomes (CLOs)
