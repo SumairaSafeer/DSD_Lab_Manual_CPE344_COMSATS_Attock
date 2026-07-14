@@ -41,27 +41,49 @@ The lab focuses on:
 CPE344_DSD_Lab_Manual_COMSATS_Attock/
 
 ├── README.md
+
 ├── Master_Lab_Manual.pdf
+
 └── Solved_Labs/
+
 ├── Lab_01_Introduction_to_Xilinx_Basic_Gates_Half_Full_Adder/
+
 │   └── Lab01_Solved.pdf
+
 ├── Lab_02_Transmission_Gates_Half_Full_Subtractor/
+
 │   └── Lab02_Solved.pdf
+
 ├── Lab_03_FPGA_Introduction_Logic_Gates_on_FPGA/
+
 │   └── Lab03_Solved.pdf
+
 ├── Lab_04_Ripple_Carry_CLA_Multiplexers_on_FPGA/
+
 │   └── Lab04_Solved.pdf
+
 ├── Lab_05_Behavioral_Modeling_Full_Adder_Subtractor_MUX_Multiplier/
+
 │   └── Lab05_Solved.pdf
+
 ├── Lab_07_Encoders/
+
 │   └── Lab07_Solved.pdf
+
 ├── Lab_08_Decoders_Comparators/
+
 │   └── Lab08_Solved.pdf
+
 ├── Lab_09_Ripple_Carry_and_CLA_Adder/
+
 │   └── Lab09_Solved.pdf
+
 ├── Lab_10_Multipliers_and_ALU/
+
 │   └── Lab10_Solved.pdf
+
 ├── Lab_12_Advanced_Delay_Models_Latches_FlipFlops/
+
 │   └── Lab12_Solved.pdf
 
 
