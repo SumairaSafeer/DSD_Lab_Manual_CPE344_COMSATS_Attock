@@ -110,4 +110,13 @@ CPE344_DSD_Lab_Manual_COMSATS_Attock/
 ## ✅ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CPE344_DSD_Lab_Manual_COMSATS_Attock.git
+   git clone https://github.com/SumairaSafeer/CPE344_DSD_Lab_Manual_COMSATS_Attock.git
+
+   
+## 👩‍🎓 Author
+
+**Sumaira Safeer**  
+Computer Engineer 
+COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
+
